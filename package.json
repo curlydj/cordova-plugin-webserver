@@ -1,6 +1,6 @@
 {
   "name": "gina-plugin-webserver",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cordova WebServer Plugin",
   "cordova": {
     "id": "gina-plugin-webserver",
