@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-webserver",
+  "name": "gina-plugin-webserver",
   "version": "1.0.3",
   "description": "Cordova WebServer Plugin",
   "cordova": {
-    "id": "cordova-plugin-webserver",
+    "id": "gina-plugin-webserver",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/icenium/cordova-plugin-webserver.git"
+    "url": "https://github.com/curlydj/cordova-plugin-webserver.git"
   },
   "keywords": [
     "cordova",
@@ -27,7 +27,7 @@
   "author": "Telerik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/icenium/cordova-plugin-webserver/issues"
+    "url": "https://github.com/curlydj/cordova-plugin-webserver/issues"
   },
-  "homepage": "https://github.com/icenium/cordova-plugin-webserver#readme"
+  "homepage": "https://github.com/curlydj/cordova-plugin-webserver#readme"
 }
